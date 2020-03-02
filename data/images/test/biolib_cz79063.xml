@@ -1,0 +1,26 @@
+<annotation>
+	<folder>08_Protaetia_afflicta</folder>
+	<filename>biolib_cz79063.jpg</filename>
+	<path>C:\Users\Gokhan GOK\Google Drive\YlisansBiyoloji\01Cetoniinae\08_Protaetia_afflicta\biolib_cz79063.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Protaetia_afflicta</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>42</xmin>
+			<ymin>77</ymin>
+			<xmax>488</xmax>
+			<ymax>510</ymax>
+		</bndbox>
+	</object>
+</annotation>

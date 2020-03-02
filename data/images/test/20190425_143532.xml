@@ -1,0 +1,38 @@
+<annotation>
+	<folder>06_Oxythyrea_funesta</folder>
+	<filename>20190425_143532.jpg</filename>
+	<path>C:\Users\Gokhan GOK\Google Drive\YlisansBiyoloji\01Cetoniinae\06_Oxythyrea_funesta\20190425_143532.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Oxythyrea_funesta</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>401</xmin>
+			<ymin>380</ymin>
+			<xmax>531</xmax>
+			<ymax>459</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Oxythyrea_funesta</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>419</xmin>
+			<ymin>514</ymin>
+			<xmax>529</xmax>
+			<ymax>597</ymax>
+		</bndbox>
+	</object>
+</annotation>

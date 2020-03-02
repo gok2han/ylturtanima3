@@ -1,0 +1,26 @@
+<annotation>
+	<folder>09_Protaetia_angustata_angustata</folder>
+	<filename>DSCF5298.JPG</filename>
+	<path>C:\Users\Gokhan GOK\Google Drive\YlisansBiyoloji\01Cetoniinae\09_Protaetia_angustata_angustata\DSCF5298.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1536</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Protaetia_angustata_angustata</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>486</xmin>
+			<ymin>46</ymin>
+			<xmax>1351</xmax>
+			<ymax>1536</ymax>
+		</bndbox>
+	</object>
+</annotation>

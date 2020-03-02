@@ -1,0 +1,26 @@
+<annotation>
+	<folder>20_Tropinota_hirta</folder>
+	<filename>dogalhayat_org1.jpeg</filename>
+	<path>C:\Users\Gokhan GOK\Google Drive\YlisansBiyoloji\01Cetoniinae\20_Tropinota_hirta\dogalhayat_org1.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>645</width>
+		<height>484</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tropinota_hirta</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>202</xmin>
+			<ymin>173</ymin>
+			<xmax>361</xmax>
+			<ymax>373</ymax>
+		</bndbox>
+	</object>
+</annotation>

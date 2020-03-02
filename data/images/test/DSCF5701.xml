@@ -1,0 +1,26 @@
+<annotation>
+	<folder>07_Protaetia_speciosa_jousselini</folder>
+	<filename>DSCF5701.JPG</filename>
+	<path>C:\Users\Gokhan GOK\Google Drive\YlisansBiyoloji\01Cetoniinae\07_Protaetia_speciosa_jousselini\DSCF5701.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1536</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Protaetia_speciosa_jousseliniw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>598</xmin>
+			<ymin>8</ymin>
+			<xmax>1629</xmax>
+			<ymax>1527</ymax>
+		</bndbox>
+	</object>
+</annotation>

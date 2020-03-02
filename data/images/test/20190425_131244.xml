@@ -1,0 +1,38 @@
+<annotation>
+	<folder>11_Protaetia_besucheti</folder>
+	<filename>20190425_131244.jpg</filename>
+	<path>C:\Users\Gokhan GOK\Google Drive\YlisansBiyoloji\01Cetoniinae\11_Protaetia_besucheti\20190425_131244.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Protaetia_besucheti</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>349</xmin>
+			<ymin>259</ymin>
+			<xmax>595</xmax>
+			<ymax>454</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Protaetia_besucheti</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>598</xmin>
+			<ymin>253</ymin>
+			<xmax>854</xmax>
+			<ymax>477</ymax>
+		</bndbox>
+	</object>
+</annotation>

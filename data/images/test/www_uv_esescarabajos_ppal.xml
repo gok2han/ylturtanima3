@@ -1,0 +1,26 @@
+<annotation>
+	<folder>16_Protaetia_oblonga</folder>
+	<filename>www_uv_esescarabajos_ppal.jpg</filename>
+	<path>C:\Users\Gokhan GOK\Google Drive\YlisansBiyoloji\01Cetoniinae\16_Protaetia_oblonga\www_uv_esescarabajos_ppal.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>545</width>
+		<height>378</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Protaetia_oblonga</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>21</xmin>
+			<ymin>24</ymin>
+			<xmax>516</xmax>
+			<ymax>375</ymax>
+		</bndbox>
+	</object>
+</annotation>

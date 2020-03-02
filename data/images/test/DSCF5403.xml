@@ -1,0 +1,26 @@
+<annotation>
+	<folder>20_Tropinota_hirta</folder>
+	<filename>DSCF5403.JPG</filename>
+	<path>C:\Users\Gokhan GOK\Google Drive\YlisansBiyoloji\01Cetoniinae\20_Tropinota_hirta\DSCF5403.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1536</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tropinota_hirta</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>732</xmin>
+			<ymin>372</ymin>
+			<xmax>1439</xmax>
+			<ymax>1253</ymax>
+		</bndbox>
+	</object>
+</annotation>

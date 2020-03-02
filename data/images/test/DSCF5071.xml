@@ -1,0 +1,26 @@
+<annotation>
+	<folder>15_Protaetia_morio_morio</folder>
+	<filename>DSCF5071.JPG</filename>
+	<path>C:\Users\Gokhan GOK\Google Drive\YlisansBiyoloji\01Cetoniinae\15_Protaetia_morio_morio\DSCF5071.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1536</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Protaetia_morio_morio</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>841</xmin>
+			<ymin>551</ymin>
+			<xmax>1134</xmax>
+			<ymax>991</ymax>
+		</bndbox>
+	</object>
+</annotation>

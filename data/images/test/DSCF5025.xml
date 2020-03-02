@@ -1,0 +1,26 @@
+<annotation>
+	<folder>17_Protaetia_ungarica_americana</folder>
+	<filename>DSCF5025.JPG</filename>
+	<path>C:\Users\Gokhan GOK\Google Drive\YlisansBiyoloji\01Cetoniinae\17_Protaetia_ungarica_americana\DSCF5025.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1536</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Protaetia_ungarica_americana</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>909</xmin>
+			<ymin>514</ymin>
+			<xmax>1353</xmax>
+			<ymax>1270</ymax>
+		</bndbox>
+	</object>
+</annotation>

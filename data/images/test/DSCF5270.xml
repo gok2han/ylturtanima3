@@ -1,0 +1,26 @@
+<annotation>
+	<folder>11_Protaetia_besucheti</folder>
+	<filename>DSCF5270.JPG</filename>
+	<path>C:\Users\Gokhan GOK\Google Drive\YlisansBiyoloji\01Cetoniinae\11_Protaetia_besucheti\DSCF5270.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1536</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Protaetia_besucheti</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>746</xmin>
+			<ymin>175</ymin>
+			<xmax>1424</xmax>
+			<ymax>1158</ymax>
+		</bndbox>
+	</object>
+</annotation>

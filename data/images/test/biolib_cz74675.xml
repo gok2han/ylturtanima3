@@ -1,0 +1,26 @@
+<annotation>
+	<folder>15_Protaetia_morio_morio</folder>
+	<filename>biolib_cz74675.jpg</filename>
+	<path>C:\Users\Gokhan GOK\Google Drive\YlisansBiyoloji\01Cetoniinae\15_Protaetia_morio_morio\biolib_cz74675.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>595</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Protaetia_morio_morio</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>159</xmin>
+			<ymin>120</ymin>
+			<xmax>672</xmax>
+			<ymax>479</ymax>
+		</bndbox>
+	</object>
+</annotation>

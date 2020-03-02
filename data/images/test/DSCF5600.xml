@@ -1,0 +1,26 @@
+<annotation>
+	<folder>10_Protaetia_asiatica</folder>
+	<filename>DSCF5600.JPG</filename>
+	<path>C:\Users\Gokhan GOK\Google Drive\YlisansBiyoloji\01Cetoniinae\10_Protaetia_asiatica\DSCF5600.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1536</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Protaetia_asiatica</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>900</xmin>
+			<ymin>606</ymin>
+			<xmax>1367</xmax>
+			<ymax>1091</ymax>
+		</bndbox>
+	</object>
+</annotation>
