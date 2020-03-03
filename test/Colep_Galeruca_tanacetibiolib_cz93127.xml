@@ -1,0 +1,26 @@
+<annotation>
+	<folder>01Galeruca_tanaceti</folder>
+	<filename>Colep_Galeruca_tanacetibiolib_cz93127.jpg</filename>
+	<path>C:\Users\Asus\Google Drive\ylisansbiyoloji\02Coleoptera\01Galeruca_tanaceti\Colep_Galeruca_tanacetibiolib_cz93127.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Galeruca_tanaceti</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>37</xmin>
+			<ymin>37</ymin>
+			<xmax>577</xmax>
+			<ymax>329</ymax>
+		</bndbox>
+	</object>
+</annotation>
