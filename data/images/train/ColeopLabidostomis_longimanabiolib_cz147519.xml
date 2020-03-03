@@ -1,0 +1,26 @@
+<annotation>
+	<folder>11Labidostomis_longimana</folder>
+	<filename>ColeopLabidostomis_longimanabiolib_cz147519.jpg</filename>
+	<path>C:\Users\Asus\Google Drive\ylisansbiyoloji\02Coleoptera\11Labidostomis_longimana\ColeopLabidostomis_longimanabiolib_cz147519.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>429</width>
+		<height>735</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Labidostomis_longimana</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>29</ymin>
+			<xmax>419</xmax>
+			<ymax>722</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>04Chrysolina_oricalcia</folder>
+	<filename>Coleop_Chrysolina_oricalcianaturespot_org_uk3.jpeg</filename>
+	<path>C:\Users\Asus\Google Drive\ylisansbiyoloji\02Coleoptera\04Chrysolina_oricalcia\Coleop_Chrysolina_oricalcianaturespot_org_uk3.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1102</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Chrysolina_oricalcia</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>109</xmin>
+			<ymin>66</ymin>
+			<xmax>945</xmax>
+			<ymax>789</ymax>
+		</bndbox>
+	</object>
+</annotation>

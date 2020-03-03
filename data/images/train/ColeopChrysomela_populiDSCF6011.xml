@@ -1,0 +1,26 @@
+<annotation>
+	<folder>08Chrysomela_populi</folder>
+	<filename>ColeopChrysomela_populiDSCF6011.JPG</filename>
+	<path>C:\Users\Asus\Google Drive\ylisansbiyoloji\02Coleoptera\08Chrysomela_populi\ColeopChrysomela_populiDSCF6011.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1536</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Chrysomela_populi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>686</xmin>
+			<ymin>437</ymin>
+			<xmax>1183</xmax>
+			<ymax>1024</ymax>
+		</bndbox>
+	</object>
+</annotation>

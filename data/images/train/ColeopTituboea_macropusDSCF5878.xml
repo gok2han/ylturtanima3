@@ -1,0 +1,26 @@
+<annotation>
+	<folder>05Tituboea_macropus</folder>
+	<filename>ColeopTituboea_macropusDSCF5878.JPG</filename>
+	<path>C:\Users\Asus\Google Drive\ylisansbiyoloji\02Coleoptera\05Tituboea_macropus\ColeopTituboea_macropusDSCF5878.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1536</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tituboea_macropus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>663</xmin>
+			<ymin>586</ymin>
+			<xmax>1245</xmax>
+			<ymax>1188</ymax>
+		</bndbox>
+	</object>
+</annotation>

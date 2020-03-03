@@ -1,0 +1,26 @@
+<annotation>
+	<folder>01Galeruca_tanaceti</folder>
+	<filename>Colep_Galeruca_tanacetiDSCF5724.JPG</filename>
+	<path>C:\Users\Asus\Google Drive\ylisansbiyoloji\02Coleoptera\01Galeruca_tanaceti\Colep_Galeruca_tanacetiDSCF5724.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1536</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Galeruca_tanaceti</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>745</xmin>
+			<ymin>322</ymin>
+			<xmax>1323</xmax>
+			<ymax>1104</ymax>
+		</bndbox>
+	</object>
+</annotation>

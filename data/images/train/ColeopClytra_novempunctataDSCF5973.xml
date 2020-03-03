@@ -1,0 +1,26 @@
+<annotation>
+	<folder>07Clytra_novempunctata</folder>
+	<filename>ColeopClytra_novempunctataDSCF5973.JPG</filename>
+	<path>C:\Users\Asus\Google Drive\ylisansbiyoloji\02Coleoptera\07Clytra_novempunctata\ColeopClytra_novempunctataDSCF5973.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1536</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Clytra_novempunctata</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>885</xmin>
+			<ymin>659</ymin>
+			<xmax>1148</xmax>
+			<ymax>994</ymax>
+		</bndbox>
+	</object>
+</annotation>

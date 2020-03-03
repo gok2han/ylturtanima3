@@ -1,0 +1,38 @@
+<annotation>
+	<folder>07Clytra_novempunctata</folder>
+	<filename>ColeopClytra_novempunctatacassidae_uni_wroc_pNovemunctata.jpg</filename>
+	<path>C:\Users\Asus\Google Drive\ylisansbiyoloji\02Coleoptera\07Clytra_novempunctata\ColeopClytra_novempunctatacassidae_uni_wroc_pNovemunctata.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>692</width>
+		<height>397</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Clytra_novempunctata</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>8</ymin>
+			<xmax>279</xmax>
+			<ymax>364</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Clytra_novempunctata</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>288</xmin>
+			<ymin>11</ymin>
+			<xmax>545</xmax>
+			<ymax>396</ymax>
+		</bndbox>
+	</object>
+</annotation>

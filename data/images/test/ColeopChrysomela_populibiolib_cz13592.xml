@@ -1,0 +1,38 @@
+<annotation>
+	<folder>08Chrysomela_populi</folder>
+	<filename>ColeopChrysomela_populibiolib_cz13592.jpg</filename>
+	<path>C:\Users\Asus\Google Drive\ylisansbiyoloji\02Coleoptera\08Chrysomela_populi\ColeopChrysomela_populibiolib_cz13592.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>690</width>
+		<height>538</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Chrysomela_populi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>80</xmin>
+			<ymin>123</ymin>
+			<xmax>323</xmax>
+			<ymax>441</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Chrysomela_populi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>243</xmin>
+			<ymin>257</ymin>
+			<xmax>529</xmax>
+			<ymax>500</ymax>
+		</bndbox>
+	</object>
+</annotation>

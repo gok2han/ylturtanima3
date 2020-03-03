@@ -1,0 +1,26 @@
+<annotation>
+	<folder>05Tituboea_macropus</folder>
+	<filename>ColeopTituboea_macropusBiolibCz264897.jpg</filename>
+	<path>C:\Users\Asus\Google Drive\ylisansbiyoloji\02Coleoptera\05Tituboea_macropus\ColeopTituboea_macropusBiolibCz264897.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>551</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tituboea_macropus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>202</xmin>
+			<ymin>122</ymin>
+			<xmax>566</xmax>
+			<ymax>447</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>03Chrysolina_gypsophila</folder>
+	<filename>Coleop_Chrysolina_gypsophilaforestryimages_org1.jpg</filename>
+	<path>C:\Users\Asus\Google Drive\ylisansbiyoloji\02Coleoptera\03Chrysolina_gypsophila\Coleop_Chrysolina_gypsophilaforestryimages_org1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>715</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Chrysolina_gypsophila</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>25</xmin>
+			<ymin>83</ymin>
+			<xmax>731</xmax>
+			<ymax>614</ymax>
+		</bndbox>
+	</object>
+</annotation>

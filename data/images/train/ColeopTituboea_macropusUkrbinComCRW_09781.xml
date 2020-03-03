@@ -1,0 +1,26 @@
+<annotation>
+	<folder>05Tituboea_macropus</folder>
+	<filename>ColeopTituboea_macropusUkrbinComCRW_09781.jpg</filename>
+	<path>C:\Users\Asus\Google Drive\ylisansbiyoloji\02Coleoptera\05Tituboea_macropus\ColeopTituboea_macropusUkrbinComCRW_09781.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tituboea_macropus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>113</xmin>
+			<ymin>109</ymin>
+			<xmax>677</xmax>
+			<ymax>583</ymax>
+		</bndbox>
+	</object>
+</annotation>

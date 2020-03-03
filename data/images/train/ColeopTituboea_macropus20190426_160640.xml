@@ -1,0 +1,26 @@
+<annotation>
+	<folder>05Tituboea_macropus</folder>
+	<filename>ColeopTituboea_macropus20190426_160640.jpg</filename>
+	<path>C:\Users\Asus\Google Drive\ylisansbiyoloji\02Coleoptera\05Tituboea_macropus\ColeopTituboea_macropus20190426_160640.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tituboea_macropus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>419</xmin>
+			<ymin>274</ymin>
+			<xmax>527</xmax>
+			<ymax>378</ymax>
+		</bndbox>
+	</object>
+</annotation>

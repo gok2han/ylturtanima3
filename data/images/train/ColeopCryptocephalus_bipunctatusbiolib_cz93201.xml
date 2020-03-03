@@ -1,0 +1,38 @@
+<annotation>
+	<folder>06Cryptocephalus_bipunctatus</folder>
+	<filename>ColeopCryptocephalus_bipunctatusbiolib_cz93201.jpg</filename>
+	<path>C:\Users\Asus\Google Drive\ylisansbiyoloji\02Coleoptera\06Cryptocephalus_bipunctatus\ColeopCryptocephalus_bipunctatusbiolib_cz93201.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>562</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cryptocephalus_bipunctatus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>111</xmin>
+			<ymin>166</ymin>
+			<xmax>330</xmax>
+			<ymax>389</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Cryptocephalus_bipunctatus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>328</xmin>
+			<ymin>122</ymin>
+			<xmax>577</xmax>
+			<ymax>418</ymax>
+		</bndbox>
+	</object>
+</annotation>

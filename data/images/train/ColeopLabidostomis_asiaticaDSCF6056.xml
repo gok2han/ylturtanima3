@@ -1,0 +1,26 @@
+<annotation>
+	<folder>10Labidostomis_asiatica</folder>
+	<filename>ColeopLabidostomis_asiaticaDSCF6056.JPG</filename>
+	<path>C:\Users\Asus\Google Drive\ylisansbiyoloji\02Coleoptera\10Labidostomis_asiatica\ColeopLabidostomis_asiaticaDSCF6056.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1536</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Labidostomis_asiatica</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>512</xmin>
+			<ymin>361</ymin>
+			<xmax>1156</xmax>
+			<ymax>1182</ymax>
+		</bndbox>
+	</object>
+</annotation>
