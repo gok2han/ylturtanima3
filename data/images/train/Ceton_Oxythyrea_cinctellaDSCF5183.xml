@@ -1,0 +1,26 @@
+<annotation>
+	<folder>05_Oxythyrea_cinctella</folder>
+	<filename>DSCF5183.JPG</filename>
+	<path>C:\Users\Gokhan GOK\Google Drive\YlisansBiyoloji\01Cetoniinae\05_Oxythyrea_cinctella\DSCF5183.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1536</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Oxythyrea_cinctella</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1243</xmin>
+			<ymin>694</ymin>
+			<xmax>1424</xmax>
+			<ymax>946</ymax>
+		</bndbox>
+	</object>
+</annotation>

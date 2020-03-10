@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Oxythyrea_funestaFlicker6.jpg</filename>
+	<path>F:\GDrive\ylisansbiyoloji\train_test_sontest\01CetoniinaeSubFamily\06_Oxythyrea_funesta\train\Oxythyrea_funestaFlicker6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2107</width>
+		<height>1374</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Oxythyrea_funesta</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>731</xmin>
+			<ymin>172</ymin>
+			<xmax>1501</xmax>
+			<ymax>816</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Oxythyrea_cinctellaFlickr8.jpg</filename>
+	<path>F:\GDrive\ylisansbiyoloji\train_test_sontest\01CetoniinaeSubFamily\05_Oxythyrea_cinctella\train\Oxythyrea_cinctellaFlickr8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2111</width>
+		<height>1636</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Oxythyrea_cinctella</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>531</xmin>
+			<ymin>69</ymin>
+			<xmax>1286</xmax>
+			<ymax>936</ymax>
+		</bndbox>
+	</object>
+</annotation>

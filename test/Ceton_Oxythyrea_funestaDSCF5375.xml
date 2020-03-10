@@ -1,0 +1,26 @@
+<annotation>
+	<folder>06_Oxythyrea_funesta</folder>
+	<filename>DSCF5375.JPG</filename>
+	<path>C:\Users\Gokhan GOK\Google Drive\YlisansBiyoloji\01Cetoniinae\06_Oxythyrea_funesta\DSCF5375.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1536</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Oxythyrea_funesta</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>910</xmin>
+			<ymin>227</ymin>
+			<xmax>1408</xmax>
+			<ymax>1056</ymax>
+		</bndbox>
+	</object>
+</annotation>

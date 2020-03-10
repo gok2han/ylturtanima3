@@ -1,0 +1,26 @@
+<annotation>
+	<folder>05_Oxythyrea_cinctella</folder>
+	<filename>biolib294121.jpg</filename>
+	<path>C:\Users\Gokhan GOK\Google Drive\YlisansBiyoloji\01Cetoniinae\05_Oxythyrea_cinctella\biolib294121.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>467</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Oxythyrea_cinctella</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>237</xmin>
+			<ymin>116</ymin>
+			<xmax>467</xmax>
+			<ymax>328</ymax>
+		</bndbox>
+	</object>
+</annotation>

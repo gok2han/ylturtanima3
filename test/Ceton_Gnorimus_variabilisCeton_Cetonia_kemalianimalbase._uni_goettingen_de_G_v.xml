@@ -1,0 +1,26 @@
+<annotation>
+	<folder>03_Gnorimus_variabilis</folder>
+	<filename>animalbase._uni_goettingen_de_G_v.jpg</filename>
+	<path>C:\Users\Gokhan GOK\Google Drive\YlisansBiyoloji\01Cetoniinae\03_Gnorimus_variabilis\animalbase._uni_goettingen_de_G_v.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>999</width>
+		<height>683</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gnorimus_variabilis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>88</xmin>
+			<ymin>64</ymin>
+			<xmax>907</xmax>
+			<ymax>616</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>06_Oxythyrea_funesta</folder>
+	<filename>biolib_cz89590.jpg</filename>
+	<path>C:\Users\Gokhan GOK\Google Drive\YlisansBiyoloji\01Cetoniinae\06_Oxythyrea_funesta\biolib_cz89590.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>562</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Oxythyrea_funesta</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>95</xmin>
+			<ymin>95</ymin>
+			<xmax>632</xmax>
+			<ymax>552</ymax>
+		</bndbox>
+	</object>
+</annotation>

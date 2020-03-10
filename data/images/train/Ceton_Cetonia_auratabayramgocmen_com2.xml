@@ -1,0 +1,26 @@
+<annotation>
+	<folder>01_Cetonia_aurata</folder>
+	<filename>bayramgocmen_com2.jpg</filename>
+	<path>C:\Users\Gokhan GOK\Google Drive\YlisansBiyoloji\01Cetoniinae\01_Cetonia_aurata\bayramgocmen_com2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>580</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cetonia_aurata</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>198</xmin>
+			<ymin>144</ymin>
+			<xmax>631</xmax>
+			<ymax>500</ymax>
+		</bndbox>
+	</object>
+</annotation>

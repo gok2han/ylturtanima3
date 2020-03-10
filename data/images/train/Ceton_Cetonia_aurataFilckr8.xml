@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Ceton_Cetonia_aurataFilckr8.jpg</filename>
+	<path>F:\GDrive\ylisansbiyoloji\train_test_sontest\01CetoniinaeSubFamily\01_Cetonia_aurata\train\Ceton_Cetonia_aurataFilckr8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1093</width>
+		<height>705</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cetonia_aurata</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>245</xmin>
+			<ymin>54</ymin>
+			<xmax>917</xmax>
+			<ymax>656</ymax>
+		</bndbox>
+	</object>
+</annotation>

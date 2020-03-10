@@ -1,0 +1,26 @@
+<annotation>
+	<folder>01_Cetonia_aurata</folder>
+	<filename>biolib_cz1734.jpg</filename>
+	<path>C:\Users\Gokhan GOK\Google Drive\YlisansBiyoloji\01Cetoniinae\01_Cetonia_aurata\biolib_cz1734.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>475</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cetonia_aurata</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>120</xmin>
+			<ymin>48</ymin>
+			<xmax>471</xmax>
+			<ymax>392</ymax>
+		</bndbox>
+	</object>
+</annotation>
