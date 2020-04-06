@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Gnorimus_variabilis_Flickr5.jpg</filename>
+	<path>C:\Users\Gokhan GOK\Google Drive\YlisansBiyoloji\01Cetoniinae\01_Cetonia_aurata\Gnorimus_variabilis_Flickr5.xml</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1767</width>
+		<height>1034</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gnorimus_variabilis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>894</xmin>
+			<ymin>121</ymin>
+			<xmax>1287</xmax>
+			<ymax>597</ymax>
+		</bndbox>
+	</object>
+</annotation>
