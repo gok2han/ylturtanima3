@@ -1,0 +1,26 @@
+<annotation>
+	<folder>03_Gnorimus_variabilis</folder>
+	<filename>Ceton_Gnorimus_variabilisCeton_Cetonia_kemalibiolib_cz246582.jpg</filename>
+	<path>C:\Users\Gokhan GOK\Google Drive\YlisansBiyoloji\01Cetoniinae\01_Cetonia_aurata\Ceton_Gnorimus_variabilisCeton_Cetonia_kemalibiolib_cz246582.xml</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>562</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gnorimus_variabilis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>119</xmin>
+			<ymin>80</ymin>
+			<xmax>485</xmax>
+			<ymax>359</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>05_Oxythyrea_cinctella</folder>
+	<filename>Ceton_Oxythyrea_cinctellaerhan_hoc_oxythyrea_cin .jpg</filename>
+	<path>C:\Users\Gokhan GOK\Google Drive\YlisansBiyoloji\01Cetoniinae\01_Cetonia_aurata\Ceton_Oxythyrea_cinctellaerhan_hoc_oxythyrea_cin .xml</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1006</width>
+		<height>981</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Oxythyrea_cinctella</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>19</ymin>
+			<xmax>505</xmax>
+			<ymax>934</ymax>
+		</bndbox>
+	</object>
+</annotation>
